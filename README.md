@@ -1,0 +1,1 @@
+This repository demonstrates a common TypeScript error: assigning a string to a number variable. The `bug.ts` file contains the erroneous code, while `bugSolution.ts` provides a corrected version with type guards or input validation to prevent this issue.  The error highlights TypeScript's strong typing system, which helps catch these type mismatches before runtime.
